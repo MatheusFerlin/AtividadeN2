@@ -155,7 +155,7 @@ margin_left = 784.0
 margin_top = 29.0
 margin_right = 825.0
 margin_bottom = 43.0
-text = "Bateu:"
+text = "Vidas:"
 
 [connection signal="body_entered" from="Esquerda/esquerda" to="." method="_on_esquerda_body_entered"]
 [connection signal="body_entered" from="Direita/direita" to="." method="_on_direita_body_entered"]
